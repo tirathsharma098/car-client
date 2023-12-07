@@ -1,0 +1,21 @@
+.submit-button {
+    background-color:  #EAECF3;
+    border-style: none;
+    width: 33%;
+    font-weight: 400;
+    border-radius: 4px;
+    /* background-color:  black; */
+    overflow: hidden;
+}
+.submit-button:hover{
+    background-color:  #c4c6cb;
+}
+.reg-button{
+    font-weight: 600;
+}
+.reg-button:hover{
+cursor: default;
+}
+.text-below-button div{
+ overflow: hidden;
+}
